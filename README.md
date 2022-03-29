@@ -59,6 +59,11 @@ Video: https://disk.yandex.com/i/YfWNNcAgIFYLJQ
 
 Файл *test_close_match.txt* - это результаты всех других подходящих вариантов машин
 
+##ССылки
+https://docs.google.com/presentation/d/1-xpkclYRNiPtcmTC4hpJCS_f7ghH0wduSFtyukv3Mps/edit?usp=sharing - презентация этой лабораторной работы
+https://docs.google.com/document/d/1znRnR_GB6eHqEc-o18EReNOY-FJe7k7Y/edit?usp=sharing&ouid=110887638286919699679&rtpof=true&sd=true - Отчет
+https://docs.google.com/presentation/d/1tdRL1cBAZ6X7kFrnIw1cMGXzmBQ-Onf9/edit?usp=sharing&ouid=110887638286919699679&rtpof=true&sd=true - презентация с различными наглядными моделями
+
 ## Как добавить данные в Базу Данных
 1. Добавьте ваши данные в файле `data_placeholder.xlsx`, потом сохраните его и назовите его как `.csv` файл с одинаковым именем файла `data_placeholder.csv`
 2. Откройте питонский файл `db_insert.py` и запустите его. Посмотрите вывод подтверждения в консоль, что ваши данные успешны добавлены в БД.
